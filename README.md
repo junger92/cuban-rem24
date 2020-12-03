@@ -2,8 +2,7 @@
 antlr grammar analyzer for the cuban baseball league with play-by-play data to obtain the run expectation matrix
 
 # dependencies
-pip install antlr4
-pip install pandas
+pip install antlr4, pandas
 
 # data sources
 The data play by play is obtained from the official site of the Cuban baseball league beisbolcubano.cu
