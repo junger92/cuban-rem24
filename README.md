@@ -1,5 +1,7 @@
 # cuban-rem24
-antlr grammar analyzer for the cuban baseball league with play-by-play data to obtain the run expectation matrix
+antlr grammar analyzer for the cuban baseball league with play-by-play data to obtain the run expectation matrix.
+
+To obtain the run expectation matrix see https://juanitobanca.com/2020/01/18/expectativa-de-carrera-i-calculando-la-matriz-de-expectativa-de-carrera/
 
 # dependencies
 pip install antlr4, pandas
